@@ -3,7 +3,7 @@ def jogar():
     print("**********************************")
     print("Bem vindo no jogo da Forca")
     print("**********************************")
-
+    print("teste")
 
     print("Fim do jogo")
     if (__name__ == "__main__"):
